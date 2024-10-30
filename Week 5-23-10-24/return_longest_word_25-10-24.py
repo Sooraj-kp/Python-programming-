@@ -6,3 +6,5 @@ for i in range(size):
 longest_word=max(list,key=len)
 print("word list :",list)
 print("longest word :",longest_word)
+print("Length of longest word:",len(longest_word))
+
